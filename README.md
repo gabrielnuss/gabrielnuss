@@ -7,8 +7,8 @@
 
 <p align="justify">Desenvolvedor Delhi e me especializando em outras tecnologias como, Flutter e C#<br></p>
 <!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)]([https://elidianaandrade.github.io/](https://github.com/gabrielnuss))
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)]([https://elidianaandrade.github.io/](https://github.com/gabrielnuss))
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)]([https://github.com/gabrielnuss](https://github.com/gabrielnuss))
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)]([https://github.com/gabrielnuss](https://github.com/gabrielnuss))
 -->
 <h3 align="left">LinkedIn</h3>
 
