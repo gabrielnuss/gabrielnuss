@@ -1,9 +1,24 @@
--<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+### Olá! 👋
 
-<h1>
-    <a href="[https://github.com/gabrielnuss](https://github.com/gabrielnuss)"></a>
-    <span>Gabriel Nuss</span>
-</h1>
+Sou [Seu Nome], um(a) [Sua Profissão ou Área de Interesse]. Atualmente, estou trabalhando em [Projetos ou Empresas em que está envolvido(a)].
 
-<p align="justify">Desenvolvedor Delhi e me especializando em outras tecnologias como, Flutter e C#<br></p>
-</details>
+#### 📫 Como me encontrar:
+
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin/)
+- Twitter: [@SeuTwitter](https://twitter.com/seutwitter)
+
+#### 🌱 Atualmente aprendendo:
+
+[Algo interessante que você está aprendendo ou se aprimorando.]
+
+#### 💬 Sobre mim:
+
+[Um pouco sobre você, seus interesses e o que você gosta de fazer.]
+
+#### 🚀 Projetos recentes:
+
+- [Nome do Projeto](https://github.com/seuusuario/nome-do-projeto): Breve descrição do projeto.
+
+#### 📊 Estatísticas do GitHub:
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&count_private=true)
