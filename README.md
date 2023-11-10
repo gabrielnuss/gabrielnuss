@@ -7,14 +7,14 @@ Sou Gabriel, um Desenvolvedor de software atualmente atuando em projetos desenvo
 
 #### Atualmente aprendendo:
 
-Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50"/>
+- Flutter <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="50"/>
 
-SQL <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="SQL Logo" width="30"/>
+- SQL <img src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="SQL Logo" width="30"/>
 
 #### 💬 Sobre mim:
 
-Amo basquete  <img src="https://www.svgrepo.com/show/513271/basketball.svg" alt="basquete" width="20" heigth="10"/>.
+- Amo basquete  <img src="https://www.svgrepo.com/show/513271/basketball.svg" alt="basquete" width="20" heigth="10"/>.
 
-Adoro jogar  <img src="https://www.svgrepo.com/show/400887/videogame.svg" alt="basquete" width="20" heigth="10"/>.
+- Adoro jogar  <img src="https://www.svgrepo.com/show/400887/videogame.svg" alt="basquete" width="20" heigth="10"/>.
 
-Adoro Codar <img src="https://www.svgrepo.com/show/493162/hacker.svg" alt="basquete" width="20" heigth="10"/>.
+- Adoro Codar <img src="https://www.svgrepo.com/show/493162/hacker.svg" alt="basquete" width="20" heigth="10"/>.
